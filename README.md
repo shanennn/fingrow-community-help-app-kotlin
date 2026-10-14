@@ -1,5 +1,3 @@
-<img width="366" height="796" alt="image" src="https://github.com/user-attachments/assets/cb337267-df62-4bea-bd80-eb45b155859b" /># FinGrow
-
 An Android app where people in a community can share donations and job opportunities.
 Built as a group project for AMIT3353 Mobile Application Development (Diploma in Computer Science, TAR UMT).
 
@@ -36,11 +34,14 @@ I was responsible for the **Community Share** module of the FinGrow app, which a
 Group project with three coursemates.
 
 ## Screenshots
-<img width="366" height="796" alt="image" src="https://github.com/user-attachments/assets/ab8c5343-84a6-4a08-9382-1a15bdc5d420" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/807c46c1-4f4b-417f-a3d0-b1a781cd7ba2" />
+
 Community Share: browse, search and filter donated items. Each item shows how many units are left, or "Reserved" when none remain.
 
-<img width="366" height="796" alt="image" src="https://github.com/user-attachments/assets/a250f587-e55f-4fa3-925b-d56aa060545b" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/c36e5019-e4c1-49bb-a294-3d47022c4b09" />
+
 **Item Details (Reserver View):** A person who reserved the item sees the same details, plus a "Your reservation was accepted!" message once the donor approves. Unreserve Item cancels the reservation and returns the unit to the pool.
 
-<img width="366" height="796" alt="image" src="https://github.com/user-attachments/assets/38fe951f-4568-47bf-8e74-257e16562548" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/4ecf5fdf-e613-47ee-81c8-9c1f2f0af742" />
+
 **Item Details (Owner View):** The donor sees the item photo, how many units are left (12 of 16), the description and pickup location on a map. Edit Post and Delete Post manage the listing, and View Reservations shows how many units have been claimed (4 of 16).
